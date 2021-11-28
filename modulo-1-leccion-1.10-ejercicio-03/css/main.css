@@ -1,0 +1,23 @@
+main {
+    max-width: 400px;
+    background-color: lightcyan;
+}
+.section {
+    display: flex;
+    flex-direction: column;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.buttom {
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    height: 2rem;
+    width: 50%;
+
+}
+fieldset {
+    text-align: center;
+}

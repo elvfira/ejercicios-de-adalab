@@ -1,0 +1,16 @@
+/* Mi primera hoja de estilos */
+/* Mobile first */
+
+body {
+    background-color: #f3f4f5;
+}
+h1 {
+    font-family: Arial;
+    font-size: 24px;
+    color: black; 
+}
+p, li {
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}

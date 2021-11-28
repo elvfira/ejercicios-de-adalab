@@ -1,0 +1,22 @@
+table, tr, td {
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
+.fin-de-semana {
+    border: 1px solid red; 
+    color:blue;
+}
+#segundo-plato {
+  color: pink;
+}
+.text-link {
+  color: green;
+}
+.text-link:hover {
+background-color: red;
+color: white;
+}
+.centrado {
+  text-align: center;
+  font-size:24px;
+}
