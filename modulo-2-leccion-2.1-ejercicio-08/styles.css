@@ -1,0 +1,13 @@
+h1 {
+    color: darkgoldenrod;
+    font-family: Arial, sans-serif;
+    font-size: 70px;
+}
+
+.carusia {
+    padding: 50;
+    color: darkgoldenrod;
+    border-radius: 50px;
+    background-color: deepskyblue;
+    font-size: 100px;
+}
